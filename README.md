@@ -38,3 +38,5 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+streamlit run project.py
